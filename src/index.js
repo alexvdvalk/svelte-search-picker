@@ -1,1 +1,3 @@
-export { default as SvelteSearchPicker } from "./UserPicker.svelte";
+import UserPicker from "./UserPicker.svelte";
+
+export default UserPicker;

@@ -113,6 +113,7 @@
   .dropdown {
     position: relative;
     display: inline-block;
+    z-index: 1000;
   }
   .input {
     background: #f6f6f6;
